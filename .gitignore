@@ -3,3 +3,5 @@ p5.sound.min.js
 assets/
 .DS_STORE
 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
