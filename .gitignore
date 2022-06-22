@@ -5,3 +5,5 @@ assets/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+python/svgs/*
+
